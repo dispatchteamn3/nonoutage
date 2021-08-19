@@ -1,0 +1,120 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1155px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 701px;
+  margin-top: 60px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 200px;
+  min-height: 39px;
+  margin: -652px auto 0 50px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: SukhumvitSet-Bold;
+  margin: 0 69px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: SukhumvitSet-Bold;
+  margin: -39px 0 0 135px;
+}
+
+.u-section-1 .u-table-1 {
+  margin-top: 10px;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+.u-section-1 .u-table-entity-1 {
+  min-height: 100px;
+}
+
+.u-section-1 .u-table-header-1 {
+  background-image: none;
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: SukhumvitSet-SemiBold;
+}
+
+.u-section-1 .u-table-body-1 {
+  font-family: SukhumvitSet-Text;
+}
+
+.u-section-1 .u-table-footer-1 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-1 {
+  height: 47px;
+  width: 300px;
+  margin: 25px auto 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  padding: 10px 31px 10px 30px;
+}
+
+.u-block-85be-114 {
+  font-size: 0.625rem;
+}
+
+.u-block-85be-115 {
+  font-size: 1rem;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-table-1 {
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-shape-1 {
+    margin-top: 44px;
+  }
+
+  .u-section-1 .u-table-1 {
+    margin-top: -210px;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-table-header-1 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-shape-1 {
+    margin-top: 53px;
+  }
+
+  .u-section-1 .u-table-1 {
+    margin-top: -219px;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 240px;
+  }
+}@font-face {
+  font-family: 'SukhumvitSet-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SukhumvitSet-Bold.ttf);
+}@font-face {
+  font-family: 'SukhumvitSet-SemiBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SukhumvitSet-SemiBold.ttf);
+}@font-face {
+  font-family: 'SukhumvitSet-Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SukhumvitSet-Text.ttf);
+}
